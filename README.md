@@ -85,8 +85,12 @@ Component-based single-page storefront with product browsing and cart, deployed 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdalruhmanIssa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalruhmanIssa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdalruhmanIssa&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdalruhmanIssa&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/AbdalruhmanIssa" alt="Contribution Graph" width="90%"/>
 </p>
 
 <p align="center">
