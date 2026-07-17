@@ -89,13 +89,8 @@ Component-based single-page storefront with product browsing and cart, deployed 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdalruhmanIssa&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/AbdalruhmanIssa" alt="Contribution Graph" width="90%"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdalruhmanIssa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdalruhmanIssa&style=for-the-badge&color=blueviolet" alt="Profile views"/>
