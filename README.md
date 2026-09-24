@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year **Computer Systems Engineering** student at Palestine Technical University – Kadoorie (PTUK), Tulkarm, Palestine
+- 🎓 a **Computer Systems Engineering** graduate at Palestine Technical University – Kadoorie (PTUK), Tulkarm, Palestine
 - 💻 I build **RESTful backends** with ASP.NET Core & Entity Framework Core, and **responsive front ends** with React
 - 🧠 Recently shipped **Brainova** — an AI brain-tumor MRI analysis platform (my graduation project)
 - 🔭 Experienced across the full lifecycle: API design, data modeling, authentication, real-time features (SignalR), and cloud deployment
