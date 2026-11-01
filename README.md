@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="mailto:abdalruhman.issa04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://abdalruhmanissa.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://codeforces.com/profile/YOUR_CODEFORCES"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 </p>
@@ -11,10 +12,11 @@
 
 ## 🚀 About Me
 
-- 🎓 a **Computer Systems Engineering** graduate at Palestine Technical University – Kadoorie (PTUK), Tulkarm, Palestine
+- 🎓 Final-year **Computer Systems Engineering** student at Palestine Technical University – Kadoorie (PTUK), Tulkarm, Palestine
 - 💻 I build **RESTful backends** with ASP.NET Core & Entity Framework Core, and **responsive front ends** with React
 - 🧠 Recently shipped **Brainova** — an AI brain-tumor MRI analysis platform (my graduation project)
 - 🔭 Experienced across the full lifecycle: API design, data modeling, authentication, real-time features (SignalR), and cloud deployment
+- 🌐 Portfolio: **[abdalruhmanissa.github.io/Portfolio](https://abdalruhmanissa.github.io/Portfolio/)**
 - 📫 Reach me at **abdalruhman.issa04@gmail.com**
 
 ---
@@ -72,6 +74,16 @@ E-commerce backend handling product catalog, order management, and Stripe checko
 
 Component-based single-page storefront with product browsing and cart, deployed on Render.
 
+### ⏱️ TimeSheet — Timesheet Management Backend
+> ASP.NET Core · EF Core · REST API
+
+Backend API for tracking and managing employee timesheets. [Source on GitHub](https://github.com/AbdalruhmanIssa/TimeSheet)
+
+### 🖥️ TimeSheetWebApp — Timesheet Web Front End
+> Web client for the TimeSheet API
+
+Web application that consumes the TimeSheet backend. [Source on GitHub](https://github.com/AbdalruhmanIssa/TimeSheetWebApp)
+
 ---
 
 ## 📜 Certifications
@@ -89,8 +101,13 @@ Component-based single-page storefront with product browsing and cart, deployed 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdalruhmanIssa&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/AbdalruhmanIssa" alt="Contribution Graph" width="90%"/>
+</p>
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbdalruhmanIssa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdalruhmanIssa&style=for-the-badge&color=blueviolet" alt="Profile views"/>
