@@ -57,22 +57,22 @@
 ### 🧠 Brainova — AI Brain-Tumor MRI Analysis Platform
 > ASP.NET Core · EF Core · SignalR · Python · FastAPI · TensorFlow · Google Cloud Run
 
-3-tier REST API integrating a FastAPI inference microservice serving an **EfficientNet CNN** that classifies MRI scans into four types (glioma, meningioma, pituitary, no-tumor) — with OpenCV brain-region cropping, test-time augmentation, **Grad-CAM explainability heatmaps**, role-based access, real-time SignalR notifications, and exportable PDF reports.
+3-tier REST API integrating a FastAPI inference microservice serving an **EfficientNet CNN** that classifies MRI scans into four types (glioma, meningioma, pituitary, no-tumor) — with OpenCV brain-region cropping, test-time augmentation, **Grad-CAM explainability heatmaps**, role-based access, real-time SignalR notifications, and exportable PDF reports. [Source on GitHub](https://github.com/AbdalruhmanIssa/Brainova) [Source on GitHub](https://github.com/AbdalruhmanIssa/Brainova_AI) 
 
 ### 🎬 Silverhand — Streaming Service Backend
 > ASP.NET Core · EF Core · Stripe · 3-tier architecture
 
-Layered (PL/BLL/DAL) backend for a video-streaming service with Stripe payments, deployed on MonsterASP.
+Layered (PL/BLL/DAL) backend for a video-streaming service with Stripe payments, deployed on MonsterASP. [Source on GitHub](https://github.com/AbdalruhmanIssa/Silverhand)
 
 ### 🛒 AY Shop — E-Commerce Backend
 > ASP.NET Core · EF Core · Stripe
 
-E-commerce backend handling product catalog, order management, and Stripe checkout.
+E-commerce backend handling product catalog, order management, and Stripe checkout. [Source on GitHub](https://github.com/AbdalruhmanIssa/AY_Shop)
 
 ### ⚛️ Ecoms — E-Commerce Web App
 > React.js · Vite · JavaScript
 
-Component-based single-page storefront with product browsing and cart, deployed on Render.
+Component-based single-page storefront with product browsing and cart, deployed on Render. [Source on GitHub](https://github.com/AbdalruhmanIssa/FrontFinalProject)
 
 ### ⏱️ TimeSheet — Timesheet Management Backend
 > ASP.NET Core · EF Core · REST API
