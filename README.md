@@ -57,7 +57,7 @@
 ### 🧠 Brainova — AI Brain-Tumor MRI Analysis Platform
 > ASP.NET Core · EF Core · SignalR · Python · FastAPI · TensorFlow · Google Cloud Run
 
-3-tier REST API integrating a FastAPI inference microservice serving an **EfficientNet CNN** that classifies MRI scans into four types (glioma, meningioma, pituitary, no-tumor) — with OpenCV brain-region cropping, test-time augmentation, **Grad-CAM explainability heatmaps**, role-based access, real-time SignalR notifications, and exportable PDF reports. [Source on GitHub](https://github.com/AbdalruhmanIssa/Brainova) [Source on GitHub](https://github.com/AbdalruhmanIssa/Brainova_AI) 
+3-tier REST API integrating a FastAPI inference microservice serving an **EfficientNet CNN** that classifies MRI scans into four types (glioma, meningioma, pituitary, no-tumor) — with OpenCV brain-region cropping, test-time augmentation, **Grad-CAM explainability heatmaps**, role-based access, real-time SignalR notifications, and exportable PDF reports. [Source on GitHub](https://github.com/AbdalruhmanIssa/Brainova) [AI Repo](https://github.com/AbdalruhmanIssa/Brainova_AI) 
 
 ### 🎬 Silverhand — Streaming Service Backend
 > ASP.NET Core · EF Core · Stripe · 3-tier architecture
